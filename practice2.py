@@ -1,6 +1,3 @@
-text= 'jaideep'
-print(text )
-print('c:\\jaideep')
-num1 =15-11
-print(num1)
-print("text[2\'5]")
+num = 1234548762462
+print(len(str(num)))
+print(str(num)[5:])
